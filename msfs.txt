@@ -1,0 +1,2 @@
+pf-cdn-content-prod.azureedge.net
+ketacdn.azureedge.net
