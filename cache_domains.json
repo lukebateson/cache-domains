@@ -36,6 +36,11 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "msfs",
+			"description": "CDN for Microsoft Flight Simulator",
+			"domain_files": ["msfs.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
